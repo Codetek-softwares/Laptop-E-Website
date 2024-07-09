@@ -1,0 +1,33 @@
+
+ .dropdown-menu, .submenu {
+    position: relative;
+    display: inline-block;
+   
+  }
+  .dropdown-list, .submenu-list {
+    display: none;
+    position: absolute;
+    background-color: gray;
+    min-width: 160px;
+    box-shadow: 0 8px 8px;
+    color: white;
+    border-radius: 5px;
+ 
+  }
+
+  .dropdown-menu:hover .dropdown-list, 
+  .submenu:hover .submenu-list {
+    display: block;
+  }
+
+  .dropdown-list a, .submenu-list a {
+    color: white;
+    padding: 12px 12px;
+    text-decoration: none;
+    display: block;
+  }
+
+  .submenu-list {
+    left: 100%;
+    top: 0;
+  }

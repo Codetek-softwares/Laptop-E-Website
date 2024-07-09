@@ -1,0 +1,20 @@
+table {
+    border-spacing: 25px;
+    margin-left: 55%;
+    margin-top: -38%;
+  }
+  table tr{
+    border: 1px solid black;
+  }
+  .hplap
+  {
+    margin-left: 55%;
+    margin-top: 2%;
+    margin-bottom: 0%;
+  }
+  .hpimg
+  {
+    margin-left: 2%;
+    margin-top: -2%;
+  }
+  

@@ -1,0 +1,18 @@
+#lapdesc {
+    min-width: 700px;
+    padding: 0px;
+    border-radius: 0px;
+    margin: 5px;
+    text-align: justify;
+}
+.mb{
+    position: relative;
+    left: 1%;
+    top: 40%;
+    
+    width: 500px;
+    height: 400px;
+    border-radius: 15px;
+    float:right;
+    margin-top: 10%;
+}
